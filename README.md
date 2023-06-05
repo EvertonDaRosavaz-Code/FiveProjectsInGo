@@ -1,2 +1,2 @@
 # FiveProjectsInGo
-<p>Five project in Go Lang</p>
+<p>Five project basic in Go Lang</p>
